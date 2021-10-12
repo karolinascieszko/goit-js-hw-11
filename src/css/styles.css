@@ -25,6 +25,7 @@ body {
 input {
   border: none;
   outline: none;
+  width: 400px;
 }
 
 .search-btn {
